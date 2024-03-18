@@ -1,48 +1,48 @@
-sample,fastq_1,,
-C leaf,SRR23422485,,auto
-C leaf,SRR23422487,,auto
-C leaf,SRR23422488,,auto
-C leaf,SRR23422489,,auto
-A leaf,SRR23422490,,auto
-A leaf,SRR23422491,,auto
-A leaf,SRR23422492,,auto
-A leaf,SRR23422493,,auto
-A leaf,SRR23422494,,auto
-E3 leaf,SRR23422774,,auto
-E3 leaf,SRR23422775,,auto
-E3 leaf,SRR23422776,,auto
-E3 leaf,SRR23422777,,auto
-E3 leaf,SRR23422778,,auto
-E2 leaf,SRR23422859,,auto
-E2 leaf,SRR23422860,,auto
-E2 leaf,SRR23422864,,auto
-E2 leaf,SRR23422865,,auto
-E2 leaf,SRR23422866,,auto
-E1 leaf,SRR23422867,,auto
-E1 leaf,SRR23422868,,auto
-E1 leaf,SRR23422869,,auto
-E1 leaf,SRR23422870,,auto
-E1 leaf,SRR23422871,,auto
+sample,fastq_1,strandedness
+C_leaf,SRR23422485,,auto
+C_leaf,SRR23422487,,auto
+C_leaf,SRR23422488,,auto
+C_leaf,SRR23422489,,auto
+A_leaf,SRR23422490,,auto
+A_leaf,SRR23422491,,auto
+A_leaf,SRR23422492,,auto
+A_leaf,SRR23422493,,auto
+A_leaf,SRR23422494,,auto
+E3_leaf,SRR23422774,,auto
+E3_leaf,SRR23422775,,auto
+E3_leaf,SRR23422776,,auto
+E3_leaf,SRR23422777,,auto
+E3_leaf,SRR23422778,,auto
+E2_leaf,SRR23422859,,auto
+E2_leaf,SRR23422860,,auto
+E2_leaf,SRR23422864,,auto
+E2_leaf,SRR23422865,,auto
+E2_leaf,SRR23422866,,auto
+E1_leaf,SRR23422867,,auto
+E1_leaf,SRR23422868,,auto
+E1_leaf,SRR23422869,,auto
+E1_leaf,SRR23422870,,auto
+E1_leaf,SRR23422871,,auto
 Root,SRR23422495,,auto
 Root,SRR23422496,,auto
 Root,SRR23422498,,auto
 Root,SRR23422499,,auto
-Herbaceous stem,SRR23422763,,auto
-Herbaceous stem,SRR23422764,,auto
-Herbaceous stem,SRR23422765,,auto
-Herbaceous stem,SRR23422766,,auto
-Herbaceous stem,SRR23422767,,auto
-Shoot apex,SRR23422768,,auto
-Shoot apex,SRR23422769,,auto
-Shoot apex,SRR23422771,,auto
-Shoot apex,SRR23422772,,auto
-Shoot apex,SRR23422773,,auto
-Old orthotropic axillary bud,SRR23422753,,auto
-Old orthotropic axillary bud,SRR23422754,,auto
-Old orthotropic axillary bud,SRR23422755,,auto
-Old orthotropic axillary bud,SRR23422756,,auto
-Young orthotropic axillary bud,SRR23422757,,auto
-Young orthotropic axillary bud,SRR23422758,,auto
-Young orthotropic axillary bud,SRR23422760,,auto
-Young orthotropic axillary bud,SRR23422761,,auto
-Young orthotropic axillary bud,SRR23422762,,auto
+Herbaceous_stem,SRR23422763,,auto
+Herbaceous_stem,SRR23422764,,auto
+Herbaceous_stem,SRR23422765,,auto
+Herbaceous_stem,SRR23422766,,auto
+Herbaceous_stem,SRR23422767,,auto
+Shoot_apex,SRR23422768,,auto
+Shoot_apex,SRR23422769,,auto
+Shoot_apex,SRR23422771,,auto
+Shoot_apex,SRR23422772,,auto
+Shoot_apex,SRR23422773,,auto
+Old_orthotropic_axillary_bud,SRR23422753,,auto
+Old_orthotropic_axillary_bud,SRR23422754,,auto
+Old_orthotropic_axillary_bud,SRR23422755,,auto
+Old_orthotropic_axillary_bud,SRR23422756,,auto
+Young_orthotropic_axillary_bud,SRR23422757,,auto
+Young_orthotropic_axillary_bud,SRR23422758,,auto
+Young_orthotropic_axillary_bud,SRR23422760,,auto
+Young_orthotropic_axillary_bud,SRR23422761,,auto
+Young_orthotropic_axillary_bud,SRR23422762,,auto
